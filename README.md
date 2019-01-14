@@ -22,3 +22,5 @@ Usage: `<img src="http://www.yoursite.com/image/resize?src=folder/another-folder
 This will cache your file into `http://www.yoursite.com/assets/folder/another-folder/thumb/thumb_320_240_myimage.jpg` and displays it.
 
 if you want to change assets path change this line: `public $assets_path = 'assets';`
+
+![Stats Counter](https://www.reliablecounter.com/count.php?page=github.com/WebFikirleri/Codeigniter-3-Image-Resize-Crop-Controller&digit=style/plain/6/&reloads=1)
