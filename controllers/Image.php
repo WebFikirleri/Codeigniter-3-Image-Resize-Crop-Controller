@@ -42,7 +42,6 @@ class Image extends WF_Controller {
 			$this->image_lib->crop();
 			$this->image_lib->clear();
 		}
-		
 		header("Content-Type: {$imgnfo['mime']}");
 		readfile($out);
 	}
