@@ -23,4 +23,8 @@ This will cache your file into `http://www.yoursite.com/assets/folder/another-fo
 
 if you want to change assets path change this line: `public $assets_path = 'assets';`
 
-![Stats Counter](https://www.reliablecounter.com/count.php?page=github.com/WebFikirleri/Codeigniter-3-Image-Resize-Crop-Controller&digit=style/plain/6/&reloads=1)
+---
+
+So if you like my works feel free to buy me a coffee: https://www.patreon.com/mrtakdnz
+
+![Stats Counter](http://webfikirleri.com/counter?url=https://github.com/WebFikirleri/Codeigniter-3-Image-Resize-Crop-Controller)
