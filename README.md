@@ -29,4 +29,4 @@ So if you like my works feel free to buy me a coffee: https://www.patreon.com/mr
 
 ![Stats Counter](https://webfikirleri.com/counter?url=https://github.com/WebFikirleri/Codeigniter-3-Image-Resize-Crop-Controller)
 
-![](https://komarev.com/ghpvc/?username=WebFikirleri&color=blue&label=Total+Views)
+![](https://komarev.com/ghpvc/?username=WebFikirleri-Codeigniter-3-Image-Resize-Crop-Controller&color=blue&label=Total+Views)
