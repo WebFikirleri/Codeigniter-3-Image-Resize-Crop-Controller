@@ -29,6 +29,4 @@ if you want to change assets path change this line: `public $assets_path = 'asse
 
 So if you like my works feel free to buy me a coffee: https://www.patreon.com/mrtakdnz
 
-![Stats Counter](https://webfikirleri.com/counter?url=https://github.com/WebFikirleri/Codeigniter-3-Image-Resize-Crop-Controller)
-
 ![](https://komarev.com/ghpvc/?username=WebFikirleri-CI3-Img-Rsz-Crp-Ctrl&color=blue&label=Total+Views)
