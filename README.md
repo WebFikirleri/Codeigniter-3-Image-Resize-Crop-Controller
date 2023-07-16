@@ -3,6 +3,8 @@
 
 Resizing images with a simple Controller
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z2LXJ6H)
+
 ## Installation
 Just copy Image.php into your application's controllers directory.
 
